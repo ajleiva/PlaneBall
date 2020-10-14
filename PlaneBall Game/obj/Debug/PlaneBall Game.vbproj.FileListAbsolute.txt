@@ -1,0 +1,15 @@
+G:\Computer Science\Final Project\PlaneBall Game\bin\Debug\PlaneBall Game.exe.config
+G:\Computer Science\Final Project\PlaneBall Game\bin\Debug\PlaneBall Game.exe
+G:\Computer Science\Final Project\PlaneBall Game\bin\Debug\PlaneBall Game.pdb
+G:\Computer Science\Final Project\PlaneBall Game\bin\Debug\PlaneBall Game.xml
+G:\Computer Science\Final Project\PlaneBall Game\obj\Debug\PlaneBall_Game.Login.resources
+G:\Computer Science\Final Project\PlaneBall Game\obj\Debug\PlaneBall_Game.Game.resources
+G:\Computer Science\Final Project\PlaneBall Game\obj\Debug\PlaneBall_Game.Resources.resources
+G:\Computer Science\Final Project\PlaneBall Game\obj\Debug\PlaneBall Game.vbproj.GenerateResource.Cache
+G:\Computer Science\Final Project\PlaneBall Game\obj\Debug\PlaneBall Game.exe
+G:\Computer Science\Final Project\PlaneBall Game\obj\Debug\PlaneBall Game.xml
+G:\Computer Science\Final Project\PlaneBall Game\obj\Debug\PlaneBall Game.pdb
+C:\Users\ajlei\Downloads\PlaneBall Game\obj\Debug\PlaneBall Game.vbprojAssemblyReference.cache
+C:\Users\ajlei\Downloads\PlaneBall Game\obj\Debug\PlaneBall Game.exe
+C:\Users\ajlei\Downloads\PlaneBall Game\obj\Debug\PlaneBall Game.xml
+C:\Users\ajlei\Downloads\PlaneBall Game\obj\Debug\PlaneBall Game.pdb
